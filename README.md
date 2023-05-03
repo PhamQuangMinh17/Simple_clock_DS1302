@@ -1,4 +1,4 @@
-# Simple_lock_DS1302
+# Simple_clock_DS1302
 
 Description: 
 Simple clock with Arduino UNO and Real Time Clock DS1302. This small project aim to explore I2C communication protocol between MCU and prripheral device. 
