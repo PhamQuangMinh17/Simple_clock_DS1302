@@ -21,6 +21,7 @@ Atmel Studio
 The clock system have basic functionalities of which expected from usual clock. User can: 
 - Pause and start clock by button switch. 
 - Adjusting time: Hours, Minutes, Seconds with input button switch.
+
 Note: Project don't use internal built-in clock of arduino UNO.
 
 **Hardware setup**: 
