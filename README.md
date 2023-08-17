@@ -1,6 +1,6 @@
 # Simple_clock_DS1302
 
-Description: 
+**Description**: 
 Simple clock with Arduino UNO and Real Time Clock DS1302. This small project aim to explore I2C communication protocol between MCU and prripheral device. 
 
 Functionality: 
@@ -8,7 +8,7 @@ Functionality:
 - Adjusting time: Hours, Minutes, Seconds with input button switch.
 - Project don't use internal built-in clock of arduino UNO.
 
-Components.
+**Components**.
 - Arduino UNO: MCU
 - DS1302 : Clock keeper
 - 4-digit 7 segment LED: Display time.
