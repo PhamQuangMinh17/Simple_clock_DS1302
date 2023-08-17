@@ -31,7 +31,7 @@ Arduino port:
 - D7: button 1. 
 - B0~B2: DS1301 communication port. 
 - B3,B4, B5: Button 2, button 3 and button 4 respectively.
-- C0~C3: Control digit 1~4 of 4-digit-7segment LED
+- C0~C3: Control digit 1 ~ 4 of 4-digit-7segment LED.
 - C4,C5: LED 1 and LED 2. 
 
 **Usage** 
